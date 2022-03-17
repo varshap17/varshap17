@@ -1,5 +1,5 @@
 Hi, I’m Varsha.P
-I’m interested in C++ Programming, Data Structures and Algorithms.
+I’m interested in C++ Programming, Data Structures and Algorithms, IOT, Digital Electronics.
 I’m currently learning DBMS, MySql, OOPS and LINUX
 
 You can reach me on 
