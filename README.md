@@ -6,4 +6,7 @@ You can reach me on
 Email : varshap.ec19@bmsce.ac.in
         varshap0717@gmail.com
 
-
+Profiles :
+GeeksForGeeks : https://auth.geeksforgeeks.org/user/varshap17/profile
+LeetCode : https://leetcode.com/varshap17/
+CodeChef : https://www.codechef.com/users/varsha_p
